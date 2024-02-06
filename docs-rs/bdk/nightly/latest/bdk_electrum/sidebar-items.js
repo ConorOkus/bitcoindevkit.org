@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ElectrumUpdate","Combination of chain and transactions updates from electrum"],["RelevantTxids","Represents updates fetched from an Electrum server, but excludes full transactions."]],"trait":[["ElectrumExt","Trait to extend [`Client`] functionality."]]};
